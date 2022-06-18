@@ -1,0 +1,10 @@
+[
+  {
+    "package": "adfExplorer",
+    "oncran": true
+  },
+  {
+    "package": "ECOTOXr",
+    "oncran": true
+  }
+]

@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "adfExplorer"]
+	path = adfExplorer
+	url = https://github.com/pepijn-devries/adfexplorer
+	shallow = true
+	registered = true
+[submodule "ECOTOXr"]
+	path = ECOTOXr
+	url = https://github.com/pepijn-devries/ecotoxr
+	shallow = true
+	registered = true
