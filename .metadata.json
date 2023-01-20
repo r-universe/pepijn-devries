@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "CopernicusMarine",
+    "oncran": true
+  },
+  {
     "package": "ECOTOXr",
     "oncran": true
   }
