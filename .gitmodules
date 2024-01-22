@@ -1,13 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/pepijn-devries/pepijn-devries.r-universe.dev
 	branch = HEAD
 [submodule "CopernicusMarine"]
 	path = CopernicusMarine
-	url = https://github.com/pepijn-devries/copernicusmarine
+	url = https://github.com/pepijn-devries/CopernicusMarine
+	branch = master
 [submodule "ECOTOXr"]
 	path = ECOTOXr
-	url = https://github.com/pepijn-devries/ecotoxr
-[submodule "adfExplorer"]
-	path = adfExplorer
-	url = https://github.com/pepijn-devries/adfexplorer
+	url = https://github.com/pepijn-devries/ECOTOXr
+	branch = main
