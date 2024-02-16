@@ -18,6 +18,10 @@
 	path = ProTrackR
 	url = https://github.com/pepijn-devries/ProTrackR
 	branch = master
+[submodule "adfExplorer"]
+	path = adfExplorer
+	url = https://github.com/pepijn-devries/adfExplorer
+	branch = master
 [submodule "ggfields"]
 	path = ggfields
 	url = https://github.com/pepijn-devries/ggfields
