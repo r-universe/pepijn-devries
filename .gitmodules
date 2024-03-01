@@ -26,3 +26,7 @@
 	path = ggfields
 	url = https://github.com/pepijn-devries/ggfields
 	branch = master
+[submodule "ggsankeyfier"]
+	path = ggsankeyfier
+	url = https://github.com/pepijn-devries/ggsankeyfier
+	branch = master
