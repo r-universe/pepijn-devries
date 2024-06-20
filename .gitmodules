@@ -25,7 +25,7 @@
 [submodule "csquares"]
 	path = csquares
 	url = https://github.com/pepijn-devries/csquares
-	branch = master
+	branch = main
 [submodule "ggfields"]
 	path = ggfields
 	url = https://github.com/pepijn-devries/ggfields
