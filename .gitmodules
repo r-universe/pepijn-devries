@@ -22,6 +22,10 @@
 	path = adfExplorer
 	url = https://github.com/pepijn-devries/adfExplorer
 	branch = master
+[submodule "csquares"]
+	path = csquares
+	url = https://github.com/pepijn-devries/csquares
+	branch = master
 [submodule "ggfields"]
 	path = ggfields
 	url = https://github.com/pepijn-devries/ggfields
