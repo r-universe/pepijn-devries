@@ -42,3 +42,7 @@
 	path = ggsankeyfier
 	url = https://github.com/pepijn-devries/ggsankeyfier
 	branch = master
+[submodule "openmpt"]
+	path = openmpt
+	url = https://github.com/pepijn-devries/openmpt
+	branch = master
