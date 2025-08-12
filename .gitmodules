@@ -26,6 +26,10 @@
 	path = adfExplorer
 	url = https://github.com/pepijn-devries/adfExplorer
 	branch = master
+[submodule "blosc"]
+	path = blosc
+	url = https://github.com/pepijn-devries/blosc
+	branch = master
 [submodule "csquares"]
 	path = csquares
 	url = https://github.com/pepijn-devries/csquares
