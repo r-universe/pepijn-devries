@@ -6,6 +6,10 @@
 	path = AmigaFFH
 	url = https://github.com/pepijn-devries/AmigaFFH
 	branch = master
+[submodule "CopernicusClimate"]
+	path = CopernicusClimate
+	url = https://github.com/pepijn-devries/CopernicusClimate
+	branch = main
 [submodule "CopernicusMarine"]
 	path = CopernicusMarine
 	url = https://github.com/pepijn-devries/CopernicusMarine
