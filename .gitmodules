@@ -54,3 +54,7 @@
 	path = openmpt
 	url = https://github.com/pepijn-devries/openmpt
 	branch = master
+[submodule "opensimplex2"]
+	path = opensimplex2
+	url = https://github.com/pepijn-devries/opensimplex2
+	branch = main
