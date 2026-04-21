@@ -58,3 +58,7 @@
 	path = opensimplex2
 	url = https://github.com/pepijn-devries/opensimplex2
 	branch = main
+[submodule "ramiga"]
+	path = ramiga
+	url = https://github.com/pepijn-devries/ramiga
+	branch = main
