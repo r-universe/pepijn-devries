@@ -42,6 +42,10 @@
 	path = csquares
 	url = https://github.com/pepijn-devries/csquares
 	branch = main
+[submodule "foosball3"]
+	path = foosball3
+	url = https://github.com/pepijn-devries/foosball3
+	branch = main
 [submodule "ggfields"]
 	path = ggfields
 	url = https://github.com/pepijn-devries/ggfields
