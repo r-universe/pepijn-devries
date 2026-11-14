@@ -58,6 +58,10 @@
 	path = ggsankeyfier
 	url = https://github.com/pepijn-devries/ggsankeyfier
 	branch = master
+[submodule "jointjs"]
+	path = jointjs
+	url = https://github.com/pepijn-devries/jointjs
+	branch = main
 [submodule "openmpt"]
 	path = openmpt
 	url = https://github.com/pepijn-devries/openmpt
